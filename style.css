@@ -117,6 +117,10 @@ h1 button {
   background: rgba(0, 0, 0, 0);
 }
 
+.inner-card-front p, .inner-card-back p {
+  font-weight: 600;
+}
+
 .inner-card-front {
   transform: rotateX(0deg);
   z-index: 2;
