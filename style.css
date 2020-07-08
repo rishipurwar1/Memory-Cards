@@ -165,7 +165,7 @@ h1 button {
 .add-container {
   opacity: 0;
   z-index: -1;
-  background-color: #f0f0f0;
+  background-color: #ffe038;
   border-top: 2px solid #eee;
   display: flex;
   flex-direction: column;
